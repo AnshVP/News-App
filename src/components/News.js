@@ -8,8 +8,8 @@ import Spinner from './Spinner';
 export default class News extends Component {
     api_key1 = "45c3d78a547542cf82bdaf9822eec363"
     api_key2 = "b2c5d4240b514b95a01358116579afc8"
-    constructor(props) {
-        super(props);
+    constructor() {
+        super();
         this.state = {
             loading: false,
             articles: [],
