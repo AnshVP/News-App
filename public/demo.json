@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Futures Fall Ahead Of Jobless Claims, Powell Speech - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-jobless-claims-powell-speech-tesla-stock-downgraded/",
+            "urlToImage": null,
+            "publishedAt": "2023-06-22T12:25:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Missing Titanic tourist submarine live updates: Is sub out of oxygen? - USA TODAY",
+            "description": "A new underwater vehicle has reached the sea floor and joined the search for the missing Titanic tourist submersible Thursday, the Coast Guard said.",
+            "url": "https://www.usatoday.com/story/news/nation/2023/06/22/missing-titanic-tourist-submarine-search-live-updates/70345468007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/06/21/USAT/74362361-dd41-4809-9ada-fbeac0f63c5a-AFP_AFP_33KM6PV.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2023-06-22T12:15:53Z",
+            "content": "Two more remotely operated underwater vehicles are searching the sea floor for the missing Titanic tourist submersible, the Coast Guard said early Thursday, the estimated deadline for when the five p… [+5553 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "Juan Toribio",
+            "title": "Dodgers' bullpen outduels Shohei Ohtani, shuts out Angels - MLB.com",
+            "description": "ANAHEIM -- Over the last month, the Dodgers struggled more than they’ve grown accustomed to, and the bullpen wore most of the blame as the team fell to third place in the National League West.\nThe Dodgers’ bullpen came into the two-game series against the Ang…",
+            "url": "https://www.mlb.com/news/dodgers-bullpen-outduels-shohei-ohtani-shuts-out-angels",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/ygvnzio83srqy9umufym.jpg",
+            "publishedAt": "2023-06-22T12:07:11Z",
+            "content": "ANAHEIM -- Over the last month, the Dodgers struggled more than theyve grown accustomed to, and the bullpen wore most of the blame as the team fell to third place in the National League West. \r\nThe D… [+4199 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andy Rose,Sydney Kashiwagi",
+            "title": "Texas Senate votes to bar Sen. Angela Paxton from voting in husband’s impeachment trial - CNN",
+            "description": "State Sen. Angela Paxton, the wife of embattled Texas Attorney General Ken Paxton, will no longer be allowed to vote in her husband’s upcoming impeachment proceedings as a result of new rules the state Senate approved Wednesday night.",
+            "url": "https://www.cnn.com/2023/06/22/politics/angela-paxton-ken-paxton-texas-impeachment/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230622064245-angela-paxton-0529.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-22T11:52:00Z",
+            "content": "State Sen. Angela Paxton, the wife of embattled Texas Attorney General Ken Paxton, will no longer be allowed to vote in her husbands upcoming impeachment proceedings as a result of new rules the stat… [+2195 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Ellen Knickmeyer, Josh Boak",
+            "title": "President Biden calls China's Xi a dictator - The Associated Press",
+            "description": "WASHINGTON (AP) — President Joe Biden’s remarks calling Chinese leader Xi Jinping a “dictator” and China a country with \"real economic difficulties” drew fast condemnation from China on Wednesday, cracking open a new rift just after the two countries agreed t…",
+            "url": "https://apnews.com/article/china-biden-xi-jinping-dictator-c1fe17f72e2d37fcc840575eea1b78d2",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/0ae43bda01d140fc996e88bcb6f66de1/3000.webp",
+            "publishedAt": "2023-06-22T11:40:23Z",
+            "content": "WASHINGTON (AP) President Joe Bidens remarks calling Chinese leader Xi Jinping a dictator and China a country with real economic difficulties drew fast condemnation from China on Wednesday, cracking … [+5986 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Anna Chernova,Sophie Tanno,Jo Shelley",
+            "title": "Evan Gershkovich: Wall Street Journal reporter loses appeal against pre-trial detention - CNN",
+            "description": "Wall Street Journal reporter Evan Gershkovich lost his appeal against the extension of pre-trial detention in Moscow on Thursday on spying charges, which he denies.",
+            "url": "https://www.cnn.com/2023/06/22/europe/evan-gershkovich-pre-trial-detention-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230622053034-02-evan-gershkovich-court-appeal-062223.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-22T11:31:00Z",
+            "content": "Wall Street Journal reporter Evan Gershkovich lost his appeal against the extension of pre-trial detention in Moscow on Thursday on spying charges, which he denies.\r\nGershkovichs detention, at the no… [+2577 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hanna Ziady",
+            "title": "Elon Musk and Mark Zuckerberg say they’re ready for a cage fight - CNN",
+            "description": "Business rivalry seemingly isn’t enough for two of the tech industry’s most powerful billionaires. Now Elon Musk and Mark Zuckerberg say they want to settle their scores in a cage fight.",
+            "url": "https://www.cnn.com/2023/06/22/tech/musk-zuckerberg-cage-fight/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220104104750-01-mark-zuckerberg-elon-musk-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-22T10:48:00Z",
+            "content": "Business rivalry seemingly isnt enough for two of the tech industrys most powerful billionaires. Now Elon Musk and Mark Zuckerberg say they want to settle their scores in a cage fight.\r\nTwitter owner… [+2074 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPLG Local 10"
+            },
+            "author": "Amanda Batchelor",
+            "title": "Tropical Depression 4 forms in central Atlantic; Bret poised to bring strong winds, rains to portions of Leeward Islands - WPLG Local 10",
+            "description": "Tropical Depression 4 formed Thursday morning in the central Atlantic as Tropical Storm Bret is poised to bring strong winds and heavy rains to portions of the Leeward Islands later Thursday and Thursday night.",
+            "url": "https://www.local10.com/weather/2023/06/22/tropical-depression-4-forms-in-central-atlantic-bret-poised-to-bring-strong-winds-rains-to-portions-of-leeward-islands/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/06-22-2023/t_884e4676cef54d05b9a5b4a1736b8c60_name_image.jpg?_a=ATAPphC0",
+            "publishedAt": "2023-06-22T10:23:35Z",
+            "content": "Tropical Depression 4 formed Thursday morning in the central Atlantic as Tropical Storm Bret is poised to bring strong winds and heavy rains to portions of the Leeward Islands later Thursday and Thur… [+1138 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung",
+            "title": "31 dead after gas explosion at barbecue restaurant in China - CNN",
+            "description": "At least 31 people are dead and seven injured in the Chinese city of Yinchuan, in northwest Ningxia region, after a gas explosion at a barbecue restaurant Wednesday night, according to state media.",
+            "url": "https://www.cnn.com/2023/06/21/china/ningxia-barbecue-restaurant-explosion-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230622002655-02-china-restaurant-bbq-explosion.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-22T10:18:00Z",
+            "content": "At least 31 people are dead and seven injured in the Chinese city of Yinchuan, in northwest Ningxia region, after a gas explosion at a barbecue restaurant Wednesday night, according to state media.\r\n… [+2208 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Richard Waters, Stefania Palma",
+            "title": "Microsoft and Activision to face FTC challenge to $75bn deal - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/58a25635-f3cb-4380-9653-90b80f783058",
+            "urlToImage": null,
+            "publishedAt": "2023-06-22T10:00:35Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Zach Harper",
+            "title": "Celtics-Grizzlies-Wizards trade grades: Instant reaction with Smart, Porziņģis on the move - The Athletic",
+            "description": "How did Boston add two first-rounders in this deal? And how did Washington get none?",
+            "url": "https://theathletic.com/4629520/2023/06/22/nba-trade-grades-smart-porzingis-celtics-wizards-grizzlies/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/06/22011833/GettyImages-1437777410-1024x683.jpg",
+            "publishedAt": "2023-06-22T09:58:14Z",
+            "content": "A few hours after one three-team deal fell apart and the Washington Wizards were up against Kristaps Porziis player option deadline, the Boston Celticsfinally managed to get their big man upgrade and… [+5978 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Demetri Sevastopulo, John Reed",
+            "title": "India set to buy US spy drones during Modi visit to Biden - Financial Times",
+            "description": "Agreements signal Washington’s intent to draw New Delhi closer as it seeks to counter China’s influence",
+            "url": "https://www.ft.com/content/98949a9a-9dc7-4e4b-aa09-d44b11d46725",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6fad0d5a-4094-48f3-b13d-fe6220df1ce3.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2023-06-22T09:05:08Z",
+            "content": "India and the US are poised to unveil defence and technology deals including a purchase of American spy drones during Prime Minister Narendra Modis state visit to Washington on Thursday.\r\nIndias agre… [+3020 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Denitsa Tsekova and Anchalee Worrachate",
+            "title": "Stocks Slump as Hawkish Central Banks Sap Spirits: Markets Wrap - Yahoo Finance",
+            "description": "(Bloomberg) -- Stocks slumped with US equity futures as policy tightening fears from the US to Norway to the UK hobbled the market’s bull run.Most Read from ...",
+            "url": "https://finance.yahoo.com/news/asia-stocks-face-headwinds-us-222125671.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/anm7r2c2x_fanjEAn5dTHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/85409ff8a730cd33bec7e49b2b604be2",
+            "publishedAt": "2023-06-22T08:39:38Z",
+            "content": "(Bloomberg) -- Stocks slumped with US equity futures as policy tightening fears from the US to Norway to the UK hobbled the markets bull run.\r\nMost Read from Bloomberg\r\nContracts for the S&amp;P 500 … [+4881 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflight Now"
+            },
+            "author": null,
+            "title": "Live coverage: Delta 4-Heavy to try again early Thursday – Spaceflight Now - Spaceflight Now",
+            "description": null,
+            "url": "https://spaceflightnow.com/2023/06/22/delta-4-heavy-nrol-68-coverage/",
+            "urlToImage": null,
+            "publishedAt": "2023-06-22T06:31:08Z",
+            "content": "Watch a replay of our live coverage of the countdown and launch of a United Launch Alliance Delta 4-Heavy rocket with a classified spy satellite for the National Reconnaissance Office from Space Laun… [+12425 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Deutsche Welle",
+            "title": "Ukraine updates: Zelenskyy thanks allies for fresh support - DW (English)",
+            "description": "Russia-appointed officials have said a Ukrainian missile attack struck the Chongar bridge to Crimea. Meanwhile, the Ukrainian president has hailed advances made at the front line. DW has the latest.",
+            "url": "https://www.dw.com/en/ukraine-updates-ukraine-damages-key-crimea-bridge-russian-officials-say/a-65996051",
+            "urlToImage": "https://static.dw.com/image/65997076_6.jpg",
+            "publishedAt": "2023-06-22T05:47:54Z",
+            "content": "Ukrainian forces have carried out a missile attack on a bridge connecting Ukraine's Kherson region and Crimea, Russia-appointed officials in both regions said on Thursday.\r\nThe Chongar bridge, which … [+5080 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Marlon González",
+            "title": "Hondurans see little hope for nation's prisons as details of cold-blooded massacre emerge - The Associated Press",
+            "description": "TEGUCIGALPA, Honduras (AP) — Authorities in Honduras began to hand over to relatives the hacked, burned corpses of 46 women killed in the worst riot at a women’s prison in recent memory. Some of the bodies were so badly burned they need genetic testing or den…",
+            "url": "https://apnews.com/article/honduras-prison-riot-499aed3a71fcaaf07476ed8ca579099c",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/dd85bc301f4a447cbf250f7ee3e75e8a/3000.webp",
+            "publishedAt": "2023-06-22T05:28:49Z",
+            "content": "TEGUCIGALPA, Honduras (AP) Authorities in Honduras began to hand over to relatives the hacked, burned corpses of 46 women killed in the worst riot at a womens prison in recent memory.\r\nSome of the bo… [+4611 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BuzzFeed News"
+            },
+            "author": "Leyla Mohammed",
+            "title": "Kim And Khloé Kardashian Called Kourtney “Jealous” And “A Hater” After She Accused Kim Of “Copying” Her Wedding, And The Whole Thing Is Seriously So Messy - BuzzFeed News",
+            "description": "“You let someone pout in the corner, you don’t entertain it, and you move on. Because you don’t get jealous of your family.”",
+            "url": "https://www.buzzfeednews.com/article/leylamohammed/kim-khloe-kardashian-drag-jealous-kourtney-amid-feud",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-06/21/15/enhanced/606023f51748/original-455-1687361298-2.jpg?crop=1243:651;0,0%26downsize=1250:*",
+            "publishedAt": "2023-06-22T04:45:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "LubbockOnline.com"
+            },
+            "author": ", Lubbock Avalanche-Journal",
+            "title": "Matador direct hit from tornado, potent storms move through West Texas - LubbockOnline.com",
+            "description": "The community of Matador in the Texas Rolling Plains took a direct hit from a tornado as a potent line of storms moved through the region",
+            "url": "https://www.lubbockonline.com/story/weather/severe/2023/06/21/matador-direct-him-from-tornado-potent-storms-move-through-west-texas/70344871007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2020/10/26/NLAJ/1fc6eae0-3669-4c0d-927d-db126a16b9fb-cops.jpg?auto=webp&crop=756,426,x0,y37&format=pjpg&width=1200",
+            "publishedAt": "2023-06-22T03:33:45Z",
+            "content": "A line of severe storms produced multiple tornadoes Wednesday evening on the Rolling Plains of West Texas, including one that caused significant damage around the Matador community.\r\nThe storms also … [+3022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YourTango"
+            },
+            "author": null,
+            "title": "3 Zodiac Signs Have The Best Horoscopes On June 22 During The Sun In Cancer - msnNOW",
+            "description": "It's not a casual romance.",
+            "url": "https://www.yourtango.com/2023363100/zodiac-signs-best-horoscopes-june-22-2023",
+            "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1cRHrO.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+            "publishedAt": "2023-06-22T03:00:00Z",
+            "content": "Three zodiac signs have the best horoscopes on June 22. First, here are the messages of the day for everyone. Studying is always hard, regardless of whether you are young or old. The brain needs time… [+5069 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Roll Call"
+            },
+            "author": null,
+            "title": "Schiff censured as GOP could be lining up impeachment votes next - Roll Call ",
+            "description": "California Rep. Adam Schiff was censured over the Democrat's statements about President Donald Trump and Russia.",
+            "url": "https://www.rollcall.com/2023/06/21/revised-schiff-censure-advances-impeachment-votes-could-be-next/",
+            "urlToImage": "https://content.rollcall.com/wp-content/uploads/2023/06/luna692_051823.jpg",
+            "publishedAt": "2023-06-22T02:32:10Z",
+            "content": "As Chair of the House Intelligence Committee, Adam Schiff launched an all-out political campaign built on baseless distortions against a sitting U.S. president at the expense of every single citizen … [+1292 chars]"
+        }
+    ]
+}
