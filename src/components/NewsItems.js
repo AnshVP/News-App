@@ -8,7 +8,7 @@ export default class NewsItems extends Component {
                 <div className="card bg-info my-3 mx-4" style={{ color: "white" }} >
                     <img src={imageUrl} className="card-img-top" alt="" />
                     <div className="card-body">
-                        <h5 className="card-title">{title}<span className="badge position-absolute top-0 translate-middle bg-danger border border-light" style={{ right: "-80px" }}>{source}</span></h5>
+                        <h5 className="card-title">{title}<span className="badge position-absolute bg-danger border border-light" style={{right: "-7px",top: "-7px"}}>{source}</span></h5>
                         <p className="card-text">{description}</p>
                         <p className="card-text"><small className="text-muted">Published by "{author}" on {new Date(date).toGMTString()}</small></p>
                         <a href={newsUrl} className="btn btn-primary">Read More</a>
