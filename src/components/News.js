@@ -21,7 +21,7 @@ export default class News extends Component {
     }
 
     updateNews = async () =>{
-        let url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=${this.props.api_key}&category=${this.props.category}&page=${this.state.page}&pageSize=${this.state.pageSize}${this.state.keyword}`
+        let url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=${this.api_key2}&category=${this.props.category}&page=${this.state.page}&pageSize=${this.state.pageSize}${this.state.keyword}`
         this.setState({ loading: true }) 
         this.props.setProgress(30)
         let data = await fetch(url)
